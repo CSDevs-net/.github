@@ -1,4 +1,6 @@
-# CSDevs
+<img src="https://images-ext-1.discordapp.net/external/lnYV5bAOfH2CLrNLKK8hWintNkAYIm8dPUpe2CB-UKM/https/images-ext-1.discordapp.net/external/8ccykpiye6SG48hNRWAn1gsg4mBkEmIb1jfGbvYJuGA/https/i.ibb.co/MydmhN9/csdevs.png?width=750&height=157"/>
+
+<hr>
 
 **CSDevs** - is an open-source organization specializing in the development of plugins for game servers running on the SourceEngine. Our aim is to provide high-quality, customizable, and reliable plugins that enhance the gameplay experience for both server administrators and players.
 
